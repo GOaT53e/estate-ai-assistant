@@ -1,1 +1,1 @@
-# estate-ai-assistant
+# estateai
